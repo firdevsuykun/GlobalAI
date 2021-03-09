@@ -1,2 +1,2 @@
 # GlobalAI
-Hı,I am trying to learn python!
+Hi,I am trying to learn python!
